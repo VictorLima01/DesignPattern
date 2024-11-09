@@ -1,6 +1,6 @@
-package com.designpatter.EstudosDesignPatter.DesignPatterns.test;
+package com.designpatter.EstudosDesignPatter.DesignPatterns.Builder.test;
 
-import com.designpatter.EstudosDesignPatter.DesignPatterns.dominio.Pessoa;
+import com.designpatter.EstudosDesignPatter.DesignPatterns.Builder.dominio.Pessoa;
 
 public class BuilderPatternTest01 {
 

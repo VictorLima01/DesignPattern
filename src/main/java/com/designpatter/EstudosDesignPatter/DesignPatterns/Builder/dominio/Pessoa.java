@@ -1,4 +1,4 @@
-package com.designpatter.EstudosDesignPatter.DesignPatterns.dominio;
+package com.designpatter.EstudosDesignPatter.DesignPatterns.Builder.dominio;
 
 public class Pessoa {
 
