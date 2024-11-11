@@ -1,4 +1,4 @@
-package com.designpatter.EstudosDesignPatter.DesignPatterns.Singleton.dominio;
+package com.designpatter.EstudosDesignPatter.DesignPatterns.SingletonEager.dominio;
 
 import java.util.HashSet;
 import java.util.Set;

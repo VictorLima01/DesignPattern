@@ -1,7 +1,6 @@
-package com.designpatter.EstudosDesignPatter.DesignPatterns.Singleton.test;
+package com.designpatter.EstudosDesignPatter.DesignPatterns.SingletonEager.test;
 
-import com.designpatter.EstudosDesignPatter.DesignPatterns.Singleton.dominio.AircarftSingletonEager;
-import com.designpatter.EstudosDesignPatter.DesignPatterns.Singleton.dominio.Aircraft;
+import com.designpatter.EstudosDesignPatter.DesignPatterns.SingletonEager.dominio.AircarftSingletonEager;
 
 public class AircraftSingletonEagerTest01 {
     public static void main(String[] args){
