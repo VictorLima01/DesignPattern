@@ -59,6 +59,7 @@ public class Pessoa {
 
     }
 
-
-
+    public String getFirstName() {
+        return firstName;
+    }
 }
